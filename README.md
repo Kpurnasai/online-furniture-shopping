@@ -1,0 +1,1 @@
+This project is an online furniture shopping platform designed to enhance the furniture purchasing experience with a user-friendly interface, diverse product selection, and seamless online checkout process. Users can browse various categories, including sofas, tables, chairs, and decor, view detailed product descriptions, compare prices, and add items to a shopping cart.
